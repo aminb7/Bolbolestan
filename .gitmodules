@@ -1,6 +1,6 @@
-[submodule "bolbolestan-backend"]
-	path = bolbolestan-backend
-	url = https://mrazimi99@gitlab.com/mrazimi99/bolbolestan-backend.git
-[submodule "bolbolestan-frontend"]
-	path = bolbolestan-frontend
-	url = https://mrazimi99@gitlab.com/mrazimi99/bolbolestan-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/aminb7/Bolbolestan-Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/aminb7/Bolbolestan-Frontend.git
